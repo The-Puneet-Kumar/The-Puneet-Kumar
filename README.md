@@ -1,93 +1,15 @@
+# 💫 About Me:
+<br>👋 Hi, I’m Puneet Kumar<br>🚀 DevOps & Cloud Enthusiast | AWS | CI/CD | Automation<br><br>🎯 Actively seeking DevOps / Cloud internships & entry-level roles<br>💡 Hands-on experience in building CI/CD pipelines, containerizing apps, and deploying on AWS.<br><br>👨‍💻 Professional Summary<br><br>Entry-level DevOps Engineer with practical experience in:<br><br>Automating application builds & deployments<br><br>Working with AWS cloud services<br><br>Implementing CI/CD pipelines using Jenkins<br><br>Containerization and basic Kubernetes workflows<br><br>Strong foundation in Linux, Git, cloud, and DevOps tools with a learning-by-doing mindset.<br><br>📍 Location: Near Lucknow, India<br><br>🛠️ Technical Skills<br>☁️ Cloud<br><br>AWS – EC2, IAM, S3, VPC (basic hands-on)<br><br>🔧 DevOps & CI/CD<br><br>Git | GitHub | Jenkins | Maven<br><br>🐳 Containers & Orchestration<br><br>Docker | Docker Compose | Kubernetes (basic concepts)<br><br>⚙️ Infrastructure & Automation<br><br>Ansible | Terraform (basic)<br><br>🔐 Security & Monitoring<br><br>SonarQube | Trivy | OWASP basics<br>Prometheus | Grafana<br><br>🖥️ OS, Web & Scripting<br><br>Linux | Nginx | Tomcat<br>HTML | CSS | JavaScript | React<br>Python | Bash<br><br>🚀 Hands-On Projects<br>🔹 CI/CD Pipeline with Jenkins<br><br>Automated build & deployment using Jenkins<br><br>Integrated GitHub for source control<br><br>Used Maven for build automation<br><br>🔹 Dockerized Application Deployment<br><br>Created Dockerfiles and containers<br><br>Deployed applications on AWS EC2<br><br>Managed container lifecycle<br><br>🔹 Infrastructure as Code (Terraform)<br><br>Created EC2 instances using Terraform<br><br>Practiced reusable & modular configurations<br><br>(More projects in repositories below 👇)<br><br>🎯 What I’m Looking For<br><br>✔ DevOps / Cloud Internships<br>✔ Entry-level DevOps Engineer roles<br>✔ Opportunities to work on real production systems<br><br>Open to learning, feedback, and collaboration.<br><br>🔗 Connect With Me<br><br>📧 Email: puneetkrlkw@gmail.com<br><br>👔 LinkedIn: https://www.linkedin.com/in/the-puneet-kumar/<br><br>💻 GitHub: https://github.com/your-username<br><br>⭐ Consistent learner | Strong fundamentals | Ready for real-world DevOps challenges<br>
 
-👋 Hi, I’m Puneet Kumar
-🚀 DevOps & Cloud Enthusiast | AWS | CI/CD | Automation
 
-🎯 Actively seeking DevOps / Cloud internships & entry-level roles
-💡 Hands-on experience in building CI/CD pipelines, containerizing apps, and deploying on AWS.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=The-Puneet-Kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=The-Puneet-Kumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Puneet-Kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-👨‍💻 Professional Summary
+---
+[![](https://visitcount.itsvg.in/api?id=The-Puneet-Kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Entry-level DevOps Engineer with practical experience in:
-
-Automating application builds & deployments
-
-Working with AWS cloud services
-
-Implementing CI/CD pipelines using Jenkins
-
-Containerization and basic Kubernetes workflows
-
-Strong foundation in Linux, Git, cloud, and DevOps tools with a learning-by-doing mindset.
-
-📍 Location: Near Lucknow, India
-
-🛠️ Technical Skills
-☁️ Cloud
-
-AWS – EC2, IAM, S3, VPC (basic hands-on)
-
-🔧 DevOps & CI/CD
-
-Git | GitHub | Jenkins | Maven
-
-🐳 Containers & Orchestration
-
-Docker | Docker Compose | Kubernetes (basic concepts)
-
-⚙️ Infrastructure & Automation
-
-Ansible | Terraform (basic)
-
-🔐 Security & Monitoring
-
-SonarQube | Trivy | OWASP basics
-Prometheus | Grafana
-
-🖥️ OS, Web & Scripting
-
-Linux | Nginx | Tomcat
-HTML | CSS | JavaScript | React
-Python | Bash
-
-🚀 Hands-On Projects
-🔹 CI/CD Pipeline with Jenkins
-
-Automated build & deployment using Jenkins
-
-Integrated GitHub for source control
-
-Used Maven for build automation
-
-🔹 Dockerized Application Deployment
-
-Created Dockerfiles and containers
-
-Deployed applications on AWS EC2
-
-Managed container lifecycle
-
-🔹 Infrastructure as Code (Terraform)
-
-Created EC2 instances using Terraform
-
-Practiced reusable & modular configurations
-
-(More projects in repositories below 👇)
-
-🎯 What I’m Looking For
-
-✔ DevOps / Cloud Internships
-✔ Entry-level DevOps Engineer roles
-✔ Opportunities to work on real production systems
-
-Open to learning, feedback, and collaboration.
-
-🔗 Connect With Me
-
-📧 Email: puneetkrlkw@gmail.com
-
-👔 LinkedIn: https://www.linkedin.com/in/the-puneet-kumar/
-
-💻 GitHub: https://github.com/your-username
-
-⭐ Consistent learner | Strong fundamentals | Ready for real-world DevOps challenges
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
